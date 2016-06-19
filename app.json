@@ -1,0 +1,9 @@
+{
+  "name": "constellations",
+  "description": "Generate constellations",
+  "repository": "https://github.com/gaving/constellations",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+    "react"
+  ]
+}
